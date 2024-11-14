@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
         if(chkC.isChecked())
             selected += "\nC";
         Toast.makeText(MainActivity.this, selected, Toast.LENGTH_SHORT).show();  }}
+```
 ## activity_main.xml:
 ```
 <?xml version="1.0" encoding="utf-8"?>
