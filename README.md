@@ -134,7 +134,8 @@ public class MainActivity extends AppCompatActivity {
 </manifest>
 ```
 ## Output
-![384856924-706c1d18-0cca-4761-8b85-c8197edc0667](https://github.com/user-attachments/assets/a3d07ff6-8fb8-4c34-81fd-ce4ce2fccd2e)
-![384856987-332094c2-73cc-4b48-a3d9-475b7f927c28](https://github.com/user-attachments/assets/a7697df1-50d6-445c-bca0-e92c3bbb1069)
+<img src="https://github.com/user-attachments/assets/a3d07ff6-8fb8-4c34-81fd-ce4ce2fccd2e" width=200>
+<img src="https://github.com/user-attachments/assets/a7697df1-50d6-445c-bca0-e92c3bbb1069" width=200>
+
 ## Result:
 Thus a Simple Android Application to create an check box and display the selected check box using Android Studio was developed and executed successfully.
